@@ -18,5 +18,5 @@ Donnez le droit d'execution au fichiers :
 chmod +x client1.py
 chmod +x server1.py
 ```
-#Lancement
+# Lancement
 Lancez le fichier server en premier dans votre machine server pour cree la connection.
